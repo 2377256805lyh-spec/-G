@@ -1,0 +1,17 @@
+# 编译和分发产物
+/*.exe
+/小G-便携版.zip
+/*.previous*
+/bin/
+/obj/
+
+# 个人运行设置与本机凭据
+/settings.json
+/.env
+/.env.*
+!/.env.example
+
+# 编辑器和 Python 缓存
+/.vs/
+__pycache__/
+*.pyc
